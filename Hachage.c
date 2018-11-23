@@ -1,16 +1,3 @@
-//ATTENTION: certain elements en commentaire servent uniquement
-//Pour me permettre de me déplacer rapidement dans le corps du programme
-//Ne pas oublier de les effacer à la fin du travail
-
-// L2 Informatique - AU 2017-18
-// Devoir algoritmique
-//
-//
-// 36001905
-// SAID
-// ISMAEL
-
-//36006038
 //BOURHANE
 //ADJMAL
 #include <stdio.h>
